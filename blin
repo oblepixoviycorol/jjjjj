@@ -1,0 +1,59 @@
+<html>
+    <main>
+        <header>
+            <a>Персонажи</a>
+            <a>Оружие</a>
+            <a>Навыки</a>
+            <a>NPS</a>
+            <a>Маунты</a>
+        </header>
+        <body>
+            <div class="mainblock">
+            <h1>Soul knight</h1>
+            <img class="qw" src="https://cdn-www.bluestacks.com/bs-images/bg198.jpg">
+            </div>
+            <article class="zxc">
+            <p>Хаотичный удар <br> <br>
+            Каждая атака накладывает случайный отрицательный эффект<br>
+            Урон=рандом
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/habilidades-de-soul-knight--1039735/03png.png">
+            </article>
+            <article class="zxc">
+            <p>Иайдо <br> <br>
+            Делает быстрый рывок,проходящий сквозь врагов<br>
+            Урон=6,можно использовать до 4 раз
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/habilidades-de-soul-knight--1039735/08png.png">
+            </article>
+            <article class="zxc">
+            <p>Огненный вихрь <br> <br>
+            Создаёт кружащие огненные сферы<br>
+            Урон=6,можно использовать до 6 раз(при каждом использовании появляется новая сфера)
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/soul-knight-abilities-392561/fcdce1a9-3ef3-4f7e-89ae-d1e5b56a99d1jpeg.png">
+            </article>
+            <article class="zxc">
+            <p>Зелья стихий <br> <br>
+            Бросает гранату с различными стихиями<br>
+            Урон=6,бьёт 10 раз,используется до 3 раз
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/soul-knight-skill-tier-list-1190046/alchemists2png.png">
+            </article>
+            <article class="zxc">
+            <p>Невидимка<br> <br>
+            Делает себя и союзников невидимыми,урон от следующей атаки удвоен<br>
+            Урон=удвоен
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/habilidades-de-soul-knight--1039735/12png.png">
+            </article>
+            <article class="zxc">
+            <p>Святой воин<br> <br>
+            Превращается в война,наделённого священной силой<br>
+            Урон=12
+         </p>
+            <img class="qq" src="https://tiermaker.com/images/chart/chart/soul-knight-abilities-392561/c91ae629-a294-4359-b32f-d73aa0b39ff9jpeg.png">
+            </article>
+        </body>
+    </main>
+</html>
